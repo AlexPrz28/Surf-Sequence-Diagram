@@ -1,0 +1,11 @@
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\bin\Debug\netcoreapp2.1\SurfSequence.deps.json
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\bin\Debug\netcoreapp2.1\SurfSequence.runtimeconfig.json
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\bin\Debug\netcoreapp2.1\SurfSequence.runtimeconfig.dev.json
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\bin\Debug\netcoreapp2.1\SurfSequence.dll
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\bin\Debug\netcoreapp2.1\SurfSequence.pdb
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\obj\Debug\netcoreapp2.1\SurfSequence.csproj.CoreCompileInputs.cache
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\obj\Debug\netcoreapp2.1\SurfSequence.AssemblyInfoInputs.cache
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\obj\Debug\netcoreapp2.1\SurfSequence.AssemblyInfo.cs
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\obj\Debug\netcoreapp2.1\SurfSequence.dll
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\obj\Debug\netcoreapp2.1\SurfSequence.pdb
+C:\Users\Alejandro Perez G\Desktop\SurfSequence\SurfSequence\obj\Debug\netcoreapp2.1\SurfSequence.csprojAssemblyReference.cache
